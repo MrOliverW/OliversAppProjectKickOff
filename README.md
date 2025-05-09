@@ -1,6 +1,6 @@
 # OliversAppProjectKickOff
 
-Link to YouTube Video:
+Link to YouTube Video: https://youtu.be/_bzq2wArGAs
 
 I spent over an hour setting up my Project Kickoff Document in Confluence and when I when to download it, it removed all my data and didn't offer me a way to restore it. Some of the formatting may not be as visually appealing as the Confluence template but the information is the same.
 
